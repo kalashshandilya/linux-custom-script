@@ -28,3 +28,20 @@ If the script is called with --version, it prints the current version of interns
 If the provided command doesn't match any of the recognized commands, it prints an error message indicating an unknown command.
 
 This script is a simple command-line utility that allows users to query information about the CPU, memory, users, and files on a system, along with providing options for help and version information.
+
+# Output images
+
+![image](https://github.com/kalashshandilya/linux-custom-script/assets/81811583/2f529e2b-87de-4cdd-b468-4073d32ee757)
+
+
+![image](https://github.com/kalashshandilya/linux-custom-script/assets/81811583/597bfe91-2892-417d-a053-d4c151a59eb0)
+
+
+![image](https://github.com/kalashshandilya/linux-custom-script/assets/81811583/b19be03e-bfc4-48dd-af6a-3f16e6c64185)
+
+
+![image](https://github.com/kalashshandilya/linux-custom-script/assets/81811583/f0e0a353-ecea-4bd4-8fe9-14a29d1e4bcb)
+
+
+
+
